@@ -1,0 +1,54 @@
+{
+  "logs": [
+    {
+      "message": "Hard drive failed in station 001",
+      "attention": true,
+      "tech": "John Doe3",
+      "date": "2020-08-02T12:58:11.978Z",
+      "id": 3
+    },
+    {
+      "message": "this is added by Roxi",
+      "attention": true,
+      "tech": "John Doe1",
+      "date": "2020-08-16T19:06:13.955Z",
+      "id": 4
+    },
+    {
+      "message": "Second added just to know the order",
+      "attention": "",
+      "tech": "John Doe3",
+      "date": "2020-08-16T19:06:36.636Z",
+      "id": 5
+    },
+    {
+      "message": "Third added",
+      "attention": "",
+      "tech": "John Doe2",
+      "date": "2020-08-16T19:06:49.387Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Roxana",
+      "lastName": "Oprea",
+      "id": 4
+    }
+  ]
+}
